@@ -1,17 +1,7 @@
 import articles from "@/data/articles.json";
 import Link from "next/link";
 
-interface Article {
-  id: number
-  title: string
-  slug: string
-  author: string
-  date: string
-  content: string
-  image: string
-  category: string
-}
-
+type Article = (typeof articles)[number];
 
 export async function generateStaticParams() {
     return articles.map((article) => ({
