@@ -36,9 +36,9 @@ export default function RootLayout({
                <li><a href="#" className="hover:underline">Wellness</a></li>
                <li><a href="#" className="hover:underline">Travel</a></li>
                <li><a href="#" className="hover:underline">Education</a></li>
-    </ul>
-  </div>
-</nav>
+            </ul>
+          </div>
+        </nav>
         {children}            
       </body>
     </html>
