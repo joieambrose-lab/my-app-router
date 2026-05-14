@@ -31,11 +31,11 @@ export default function RootLayout({
             <span className="text-xl font-bold">The Daily News</span>
             
             <ul className="flex flex-wrap gap-4 text-sm">
-               <li><a href="#" className="hover:underline">Technology</a></li>
-               <li><a href="#" className="hover:underline">Finance</a></li>
-               <li><a href="#" className="hover:underline">Wellness</a></li>
-               <li><a href="#" className="hover:underline">Travel</a></li>
-               <li><a href="#" className="hover:underline">Education</a></li>
+               <li><span>Technology</span></li>
+               <li><span>Finance</span></li>
+               <li><span>Wellness</span></li>
+               <li><span>Travel</span></li>
+               <li><span>Education</span></li>
             </ul>
           </div>
         </nav>
