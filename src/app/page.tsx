@@ -17,7 +17,7 @@ export default async function Home() {
     <main>
       {(articles as Article[]).map((article) => (
   <div key={article.id}>
-    <Link href={`/${article.slug}`}>{article.title}</Link>
+    <Link href={`/articles/${article.slug}`}>{article.title}</Link>
     <p>{article.date}</p>
   </div>
 ))}
