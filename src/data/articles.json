@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "title": "Breaking News: Tech Innovations in 2025",
+    "slug": "tech-innovations-2025",
+    "author": "Jane Doe",
+    "date": "2025-01-14",
+    "content": "Discover the latest technological advancements of 2025 and how they are shaping the future.",
+    "image": "/images/tech-2025.jpg",
+    "category": "technology"
+  },
+  {
+    "id": 2,
+    "title": "The Rise of AI in Everyday Life",
+    "slug": "rise-of-ai",
+    "author": "John Smith",
+    "date": "2025-01-10",
+    "content": "Explore how artificial intelligence is becoming an integral part of daily routines worldwide.",
+    "image": "/images/ai-rise.jpg",
+    "category": "technology"
+  },
+  {
+    "id": 3,
+    "title": "Global Economic Trends to Watch",
+    "slug": "economic-trends-2025",
+    "author": "Emily White",
+    "date": "2025-01-12",
+    "content": "A comprehensive look at economic trends shaping global markets this year.",
+    "image": "/images/economic-trends.jpg",
+    "category": "finance"
+  },
+  {
+    "id": 4,
+    "title": "Sustainable Living: Top Practices",
+    "slug": "sustainable-living",
+    "author": "David Green",
+    "date": "2025-01-08",
+    "content": "Learn practical ways to incorporate sustainability into your daily life.",
+    "image": "/images/sustainability.jpg",
+    "category": "wellness"
+  },
+  {
+    "id": 5,
+    "title": "Health and Wellness in the Modern Age",
+    "slug": "health-wellness-modern-age",
+    "author": "Laura Brown",
+    "date": "2025-01-11",
+    "content": "Tips and strategies for staying healthy in a fast-paced world.",
+    "image": "/images/health-wellness.jpg",
+    "category": "wellness"
+  },
+  {
+    "id": 6,
+    "title": "Exploring the Universe: New Discoveries",
+    "slug": "exploring-universe",
+    "author": "Carl Black",
+    "date": "2025-01-09",
+    "content": "Recent discoveries in space exploration and what they mean for humanity.",
+    "image": "/images/universe-discoveries.jpg",
+    "category": "technology"
+  },
+  {
+    "id": 7,
+    "title": "Top Travel Destinations for 2025",
+    "slug": "travel-destinations-2025",
+    "author": "Sarah Miles",
+    "date": "2025-01-13",
+    "content": "A curated list of must-visit destinations for travelers this year.",
+    "image": "/images/travel-2025.jpg",
+    "category": "travel"
+  },
+  {
+    "id": 8,
+    "title": "The Future of Work: Remote Trends",
+    "slug": "future-of-work",
+    "author": "Michael Lee",
+    "date": "2025-01-07",
+    "content": "Analyzing the ongoing shift to remote work and its implications.",
+    "image": "/images/remote-work.jpg",
+    "category": "finance"
+  },
+  {
+    "id": 9,
+    "title": "How to Master Personal Finance",
+    "slug": "master-personal-finance",
+    "author": "Rachel Adams",
+    "date": "2025-01-05",
+    "content": "Essential tips for managing your finances effectively in 2025.",
+    "image": "/images/personal-finance.jpg",
+    "category": "finance"
+
+  },
+  {
+    "id": 10,
+    "title": "Innovations in Education Technology",
+    "slug": "education-technology-2025",
+    "author": "Alan Wright",
+    "date": "2025-01-06",
+    "content": "The latest trends in EdTech and how they're transforming learning experiences.",
+    "image": "/images/edtech-2025.jpg",
+    "category": "education"
+  }
+]
