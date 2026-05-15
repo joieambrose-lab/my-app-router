@@ -34,19 +34,29 @@ export default function RootLayout({
 
             <ul className="flex flex-wrap gap-4 text-sm">
               <li>
-                <span>Technology</span>
+                <a href="#" className="hover:underline">
+                  Technology
+                </a>
               </li>
               <li>
-                <span>Finance</span>
+                <a href="#" className="hover:underline">
+                  Finance
+                </a>
               </li>
               <li>
-                <span>Wellness</span>
+                <a href="#" className="hover:underline">
+                  Wellness
+                </a>
               </li>
               <li>
-                <span>Travel</span>
+                <a href="#" className="hover:underline">
+                  Travel
+                </a>
               </li>
               <li>
-                <span>Education</span>
+                <a href="#" className="hover:underline">
+                  Education
+                </a>
               </li>
             </ul>
           </div>
